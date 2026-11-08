@@ -1,0 +1,3 @@
+- Usa **WASD** para moverte.
+- Apunta con el **ratón** y haz **clic izquierdo** para atacar.
+- Pulsa **Q** para enfundar el arma.

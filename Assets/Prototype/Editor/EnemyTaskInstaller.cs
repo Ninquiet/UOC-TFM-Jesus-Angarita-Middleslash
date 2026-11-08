@@ -23,9 +23,6 @@ namespace Aberracion.Editor
             vitals.actions = player.GetComponent<CharacterActionStateMachine>();
             Undo.RecordObject(session, "Connect player health");
             session.playerHealth = playerHealth;
-            var hud = session.GetComponent<PrototypeHud>();
-            Undo.RecordObject(hud, "Show player health");
-            hud.playerVitals = vitals;
 
             foreach (var enemy in session.enemies)
                 AttachEnemy(enemy, playerHealth, arenaFloor);

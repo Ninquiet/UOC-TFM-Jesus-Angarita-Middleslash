@@ -708,8 +708,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Aberracion.PrototypeHud
   focus: {fileID: 1773809523}
-  playerVitals: {fileID: 1773809534}
-  telemetry: {fileID: 192239797}
 --- !u!114 &192239802
 MonoBehaviour:
   m_ObjectHideFlags: 0

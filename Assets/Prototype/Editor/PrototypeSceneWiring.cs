@@ -32,7 +32,6 @@ namespace Aberracion.Editor
 
             var hud = GetOrAdd<PrototypeHud>(session);
             hud.focus = focus;
-            hud.telemetry = shortcuts.telemetry;
 
             foreach (var enemy in shortcuts.enemies)
             {

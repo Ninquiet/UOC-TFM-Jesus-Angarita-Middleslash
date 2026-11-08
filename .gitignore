@@ -3,7 +3,8 @@
 [Oo]bj/
 [Ll]ogs/
 UserSettings/
-Builds/
+/Builds/Aberracion-PEC2-0.1.0-Windows.zip
+/Builds/**/*_DoNotShip/
 /Tools/
 .vs/
 *.csproj
@@ -19,3 +20,4 @@ Validation/
 *.log
 /.*
 !/.gitignore
+!/.gitattributes

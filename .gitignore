@@ -4,6 +4,7 @@
 [Ll]ogs/
 UserSettings/
 Builds/
+/Tools/
 .vs/
 *.csproj
 *.sln
